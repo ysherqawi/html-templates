@@ -10,3 +10,4 @@
 |   #3 | animated-image-gallery | [Readme](/3-animated-image-gallery/README.md) |          |
 |   #4 |       background-video |       [Readme](/4-background-video/README.md) |          |
 |   #5 |     social-media-icons |     [Readme](/5-social-media-icons/README.md) |          |
+|   #6 |           testimonials |           [Readme](/6-testimonials/README.md) |          |
